@@ -1,0 +1,9 @@
+
+.space {
+    padding: 2em;
+    margin-left: 5px;
+    margin-right: 5px;
+    /* width : 5px; */
+    color: red;
+    font-style: bold;
+  }
